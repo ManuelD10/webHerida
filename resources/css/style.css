@@ -1,0 +1,64 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.ctn-header{
+	background-image: url(../images/header.jpg);
+	height: 619px;
+	margin: 0 auto;
+	width: 100%; 
+}
+.logo{
+	background-image: url(../images/logo.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 619px;
+	width: 100%; 
+}
+.principal-nav{
+	background: rgba(0, 105, 170, 0.8);
+	height: 57px;
+	width: 100%;
+}
+.ctn-nosotros{
+	background-image: url(../images/nosotros.png);
+	background-repeat: no-repeat;
+	height: 854px;
+	width: 100%; 
+}
+.ctn-gray-nosotros{
+	background: rgba(0, 0, 0, 0.25); 
+	height: 854px;
+	width: 667px;
+	margin-left: 45px;
+}
+.ctn-confeccion{
+	background-image: url(../images/confeccion.png);
+	background-repeat: no-repeat;
+	height: 726px;
+	width: 100%; 
+}
+.ctn-articulos{
+	background-image: url(../images/articulos.png);
+	background-repeat: no-repeat;
+	height: 792px;
+	width: 100%; 
+}
+.ctn-dotacion{
+	background-image: url(../images/dotacion.png);
+	background-repeat: no-repeat;
+	height: 626px;
+	width: 100%; 
+}
+.ctn-productStar{
+	background-image: url(../images/productStar.png);
+	background-repeat: no-repeat;
+	height: 710px;
+	width: 100%; 
+}
+.ctn-contacto{
+	background-image: url(../images/contacto.png);
+	background-repeat: no-repeat;
+	height: 651px;
+	width: 100%; 
+}
