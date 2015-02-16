@@ -62,3 +62,19 @@ body{
 	height: 651px;
 	width: 100%; 
 }
+.ctn-text-confeccion{
+	color: white;
+	float: left;
+	margin-left: 700px;
+	margin-top: 40px;
+	height: 100px;
+	width: 500px;
+}
+.ctn-text-articulos{
+	color: white;
+	float: left;
+	margin-left: 400px;
+	margin-top: 455px;
+	height: 100px;
+	width: 500px;
+}
