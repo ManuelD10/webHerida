@@ -317,6 +317,8 @@ nav {
     z-index: 999;
 	-webkit-box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.2);
 	box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.2);
+	height: 40px;
+	padding-top: 8px;
 }
 
 /* See more on stylesheets/slimmenu.css */

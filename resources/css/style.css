@@ -59,6 +59,7 @@ body{
 .ctn-dotacion{
 	background-image: url(../images/dotacion.png);
 	background-repeat: no-repeat;
+	margin-top: -2px;
 	height: 626px;
 	width: 100%; 
 }
@@ -78,9 +79,9 @@ body{
 	color: white;
 	font-family:  Helvetica Neue LT Pro;
 	float: left;
-	margin-left: 700px;
-	margin-top: 40px;
-	height: 100px;
+	margin-left: 450px;
+	margin-top: 12px;
+	height: 190px;
 	width: 500px;
 }
 .ctn-text-confeccion p{
@@ -89,8 +90,8 @@ body{
 .ctn-text-articulos{
 	color: white;
 	float: left;
-	margin-left: 190px;
-	margin-top: 485px;
+	margin-left: 82px;
+	margin-top: 491px;
 	height: 100px;
 	width: 790px;
 }
@@ -104,7 +105,7 @@ body{
 }
 .ctn-text-star{
 	float: left;
-	margin-left: 370px;
+	margin-left: 240px;
 	margin-top: 196px;
 	text-align : justify;
 	height: 270px;
